@@ -1,0 +1,6 @@
+{"name": "Davreck", "login": "davreck22", "password": "davreck22", "age": "24"}
+{"name": "Asd", "login": "asd", "password": "asd12345", "age": "22"}
+{"name": "Nodir", "login": "nodir", "password": "nodir123", "age": "20"}
+{"name": "Shaxlo", "login": "shaxlo", "password": "shaxlo123", "age": "22"}
+{"name": "Zoxid", "login": "zoxid", "password": "zoxid123", "age": "22"}
+{"name": "Komola", "login": "komol123", "password": "komola123", "age": "30"}
