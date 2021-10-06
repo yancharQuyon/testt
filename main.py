@@ -20,12 +20,13 @@ class User:
         self.current_login=None
         self.current_password=None
         self.current_ID=None
+        print("shunchaki print")
 
 
     def entering_system(self):
         self.clear_everything()
         self.init_massage()
-        reg_or_login=input("[1/2]:").strip()
+
 
         while reg_or_login not in self.init_input_option:
             self.clear_everything()
